@@ -4,7 +4,7 @@ const skills = [
   "🔍 Google Ads",
   "📈 SEO (On-page & Basics)",
   "🎨 Canva Design",
-  "📊 Analytics & Reporting",
+  "📊 Website Design with Wordpress",
 ];
 
 export default function Info() {

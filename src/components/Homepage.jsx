@@ -10,13 +10,13 @@ const Homepage = () => {
   return (
     <>
       <section className=' h-full bg-black text-white '>
-   
+
         <Header />
         <About />
         <Experience />
         <Projects />
-         <Info />
-<Contact/>
+        <Info />
+        <Contact />
       </section>
     </>
   )
